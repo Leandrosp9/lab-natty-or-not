@@ -47,10 +47,11 @@ Este projeto mostra que a fronteira entre o natural e o sintético está se torn
 “Se não conseguimos distinguir o real do artificial... o que significa ser ‘real’?”
 
 ### Exemplos e Insigths
-- [Fotos](/index.html)
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Fotos Geradas IA](/images/face1.jpg)
+- [Fotos Geradas IA](/images/face2.jpg)
+- [Fotos Geradas IA](/images/face3.jpg)
+- [Fotos Geradas IA](/images/face4.jpg)
+
 
 ## Links Interessantes
 
